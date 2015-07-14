@@ -600,7 +600,7 @@
 			
 			if( tvalue === undefined ) {
 				
-				var amount = this.fitCount * itemSpace;
+				var amount = itemSpace;
 
 				if( amount < 0 ) {
 
